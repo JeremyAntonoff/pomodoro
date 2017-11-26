@@ -3,7 +3,7 @@
 ### Instructions
 1. Set your session length and how long you want to work for.
 2. Set how long you want your break to be.
-3. Jumpstart Productivity!
+3. Jumpstart Productivity! Click the time (middle box) to start your timer!
 
 ![alt text](https://jeremyantonoff.com/img/work/pomo.JPG "Pomodoro Clock")
 
